@@ -16,8 +16,6 @@
 /* size of stack area used by each thread */
 #define STACKSIZE 1024
 
-/* scheduling priority used by each thread */
-#define PRIORITY 7
 
 /* Thread 1*/
 void thread1(void)
